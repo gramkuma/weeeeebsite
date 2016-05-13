@@ -10,7 +10,7 @@
 		background: #334467;
 		font-family: 'Questrial', sans-serif;
 		font-size: 12pt;
-		color: #000;
+		color: #E5EEFF;
 	}
 	
 	
@@ -89,7 +89,7 @@
 				-webkit-appearance: none;
 				display: block;
 				border: 0;
-				background: #fff;
+				background: #000;
 				background: rgba(255,255,255,0.75);
 				width: 100%;
 				border-radius: 0.50em;

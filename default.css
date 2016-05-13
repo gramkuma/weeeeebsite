@@ -10,7 +10,7 @@
 		background: #334467;
 		font-family: 'Questrial', sans-serif;
 		font-size: 12pt;
-		color: #E5EEFF;
+		color: #000;
 	}
 	
 	
@@ -18,7 +18,7 @@
 	{
 		margin: 0;
 		padding: 0;
-		color: #404040;
+		color: #000;
 	}
 	
 	p, ol, ul
@@ -43,7 +43,7 @@
 	
 	a
 	{
-		color: #16A085;
+		color: #000;
 	}
 	
 	a:hover
@@ -117,7 +117,7 @@
 				form textarea:focus
 				{
 					box-shadow: 0 0 2px 1px #E0E0E0;
-					background: #fff;
+					background: #000;
 				}
 				
 				form textarea

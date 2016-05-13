@@ -357,7 +357,7 @@
 	
 
 /*********************************************************************************/
-/* Menu                                                                          */
+/* Menu_Home                                                                          */
 /*********************************************************************************/
 
 	#menu
@@ -385,7 +385,7 @@
 		font-weight: 600;
 		text-transform: uppercase;
 		outline: 0;
-		color: #ff0;
+		color: #000;
 	}
 	
 	#menu li:hover a, #menu li.active a, #menu li.active span
@@ -400,26 +400,26 @@
 	
 
 /*********************************************************************************/
-/* Menu_Home                                                                       */
+/* Menu_Resume                                                                       */
 /*********************************************************************************/
 
-	#Menu_Home
+	#Menu_Resume
 	{
 	}
 	
-	#Menu_Home ul
+	#Menu_Resume ul
 	{
 		display: inline-block;
 		padding: 0em 2em;
 		text-align: center;
 	}
 	
-	#Menu_Home li
+	#Menu_Resume li
 	{
 		display: inline-block;
 	}
 	
-	#Menu_Home li a, #Menu_Home li span
+	#Menu_Resume li a, #Menu_Resume li span
 	{
 		display: inline-block;
 		padding: 1.3em 1.5em;
@@ -431,12 +431,12 @@
 		color: hotpink;
 	}
 	
-	#Menu_Home li:hover a, #Menu_Home li.active a, #Menu_Home li.active span
+	#Menu_Resume li:hover a, #Menu_Resume li.active a, #Menu_Resume li.active span
 	{
 		background: green;
 	}
 	
-	#Menu_Home .current_page_item a
+	#Menu_Resume .current_page_item a
 	{
 		color: #FFF;
 	}

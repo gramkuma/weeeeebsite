@@ -400,6 +400,49 @@
 	
 
 /*********************************************************************************/
+/* Menu_Home                                                                       */
+/*********************************************************************************/
+
+	#Menu_Home
+	{
+	}
+	
+	#Menu_Home ul
+	{
+		display: inline-block;
+		padding: 0em 2em;
+		text-align: center;
+	}
+	
+	#Menu_Home li
+	{
+		display: inline-block;
+	}
+	
+	#Menu_Home li a, #Menu_Home li span
+	{
+		display: inline-block;
+		padding: 1.3em 1.5em;
+		text-decoration: none;
+		font-size: 0.90em;
+		font-weight: 600;
+		text-transform: uppercase;
+		outline: 0;
+		color: hotpink;
+	}
+	
+	#Menu_Home li:hover a, #Menu_Home li.active a, #Menu_Home li.active span
+	{
+		background: green;
+	}
+	
+	#Menu_Home .current_page_item a
+	{
+		color: #FFF;
+	}
+	
+
+/*********************************************************************************/
 /* Banner                                                                        */
 /*********************************************************************************/
 

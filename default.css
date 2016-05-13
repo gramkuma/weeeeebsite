@@ -337,7 +337,7 @@
 	#logo a
 	{
 		text-decoration: none;
-		color: #000;
+		color: #FFF;
 	}
 	
 	#logo span
@@ -384,7 +384,7 @@
 		font-weight: 600;
 		text-transform: uppercase;
 		outline: 0;
-		color: #000;
+		color: #FFF;
 	}
 	
 	#menu li:hover a, #menu li.active a, #menu li.active span
@@ -463,7 +463,7 @@
 
 	#welcome .title h2
 	{
-		color: #FFF;
+		color: #000;
 	}
 	
 	#welcome a,

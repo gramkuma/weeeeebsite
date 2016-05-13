@@ -10,7 +10,7 @@
 		background: #334467;
 		font-family: 'Questrial', sans-serif;
 		font-size: 12pt;
-		color: #000;
+		color: #E5EEFF;
 	}
 	
 	
@@ -18,7 +18,7 @@
 	{
 		margin: 0;
 		padding: 0;
-		color: #000;
+		color: #404040;
 	}
 	
 	p, ol, ul
@@ -89,7 +89,7 @@
 				-webkit-appearance: none;
 				display: block;
 				border: 0;
-				background: #FFF;                            /* THIS IS THE REGULAR TEXT STUFFFFFFFFFFFFFF*/
+				background: #fff;
 				background: rgba(255,255,255,0.75);
 				width: 100%;
 				border-radius: 0.50em;

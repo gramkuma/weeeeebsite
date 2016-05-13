@@ -294,7 +294,7 @@
 	.title h2
 	{
 		font-size: 2.8em;
-		color: #000;
+		color: #FFF;
 	}
 	
 	.title .byline
@@ -337,7 +337,7 @@
 	#logo a
 	{
 		text-decoration: none;
-		color: #FFF;
+		color: #000;
 	}
 	
 	#logo span
@@ -384,7 +384,7 @@
 		font-weight: 600;
 		text-transform: uppercase;
 		outline: 0;
-		color: #FFF;
+		color: #000;
 	}
 	
 	#menu li:hover a, #menu li.active a, #menu li.active span

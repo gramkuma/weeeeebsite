@@ -1,4 +1,4 @@
-	html, body
+	html, body,bodyred
 	{
 		height: 100%;
 	}
@@ -8,6 +8,16 @@
 		margin: 0px;
 		padding: 0px;
 		background: #334467;
+		font-family: 'Questrial', sans-serif;
+		font-size: 12pt;
+		color: #FFF;
+	}
+
+	bodyred
+	{
+		margin: 0px;
+		padding: 0px;
+		background: #d11141;
 		font-family: 'Questrial', sans-serif;
 		font-size: 12pt;
 		color: #FFF;

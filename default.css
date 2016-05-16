@@ -353,7 +353,42 @@
 	{
 		color: rgba(255,255,255,0.8);
 	}
+
+
+/*********************************************************************************/
+/* Logo Resume                                                                         */
+/*********************************************************************************/
+
+	#logo_resume
+	{
+	}
 	
+	#logo_resume h1
+	{
+		display: inline-block;
+		margin-bottom: 0.20em;
+		padding: 0.20em 0.9em;
+		font-size: 3.5em;
+	}
+	
+	#logo_resume a
+	{
+		text-decoration: none;
+		color: hotpink;
+	}
+	
+	#logo_resume span
+	{
+		padding-right: 0.5em;
+		text-transform: uppercase;
+		font-size: 0.90em;
+		color: rgba(255,255,255,1);
+	}
+
+	#logo_resume span a
+	{
+		color: rgba(255,255,255,0.8);
+	}	
 	
 
 /*********************************************************************************/

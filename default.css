@@ -38,10 +38,10 @@
 	{
 		margin: 0px;
 		padding: 0px;
-		background: #334467;
+		background: #f37735;
 		font-family: 'Questrial', sans-serif;
 		font-size: 12pt;
-		color: #FFF;
+		color: #00aedb;
 	}
 
 	#contact
@@ -396,6 +396,41 @@
 	}
 
 /*********************************************************************************/
+/* Logo_Portfolio                                                                          */
+/*********************************************************************************/
+
+	#logo_portfolio
+	{
+	}
+	
+	#logo_portfolio h1
+	{
+		display: inline-block;
+		margin-bottom: 0.20em;
+		padding: 0.20em 0.9em;
+		font-size: 3.5em;
+	}
+	
+	#logo_portfolio a
+	{
+		text-decoration: none;
+		color: #00aedb;
+	}
+	
+	#logo_portfolio span
+	{
+		padding-right: 0.5em;
+		text-transform: uppercase;
+		font-size: 0.90em;
+		color: rgba(255,255,255,1);
+	}
+
+	#logo_portfolio span a
+	{
+		color: rgba(255,255,255,0.8);
+	}
+
+/*********************************************************************************/
 /* Logo_About                                                                          */
 /*********************************************************************************/
 
@@ -507,6 +542,48 @@
 	#menu .current_page_item a
 	{
 		color: #FFF;
+	}
+
+/*********************************************************************************/
+/* Menu_Portfolio                                                                          */
+/*********************************************************************************/
+
+	#menu_portfolio
+	{
+	}
+	
+	#menu_portfolio ul
+	{
+		display: inline-block;
+		padding: 0em 2em;
+		text-align: center;
+	}
+	
+	#menu_portfolio li
+	{
+		display: inline-block;
+	}
+	
+	#menu_portfolio li a, #menu_portfolio li span
+	{
+		display: inline-block;
+		padding: 1.3em 1.5em;
+		text-decoration: none;
+		font-size: 0.90em;
+		font-weight: 600;
+		text-transform: uppercase;
+		outline: 0;
+		color: #00aedb;
+	}
+	
+	#menu_portfolio li:hover a, #menu_portfolio li.active a, #menu_portfolio li.active span
+	{
+		background: #3E5A99;
+	}
+	
+	#menu_portfolio .current_page_item a
+	{
+		color: #00aedb;
 	}
 
 /*********************************************************************************/

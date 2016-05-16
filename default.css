@@ -395,6 +395,41 @@
 		color: rgba(255,255,255,0.8);
 	}
 
+/*********************************************************************************/
+/* Logo_About                                                                          */
+/*********************************************************************************/
+
+	#logo_about
+	{
+	}
+	
+	#logo_about h1
+	{
+		display: inline-block;
+		margin-bottom: 0.20em;
+		padding: 0.20em 0.9em;
+		font-size: 3.5em;
+	}
+	
+	#logo_about a
+	{
+		text-decoration: none;
+		color: #ffc425;
+	}
+	
+	#logo_about span
+	{
+		padding-right: 0.5em;
+		text-transform: uppercase;
+		font-size: 0.90em;
+		color: rgba(255,255,255,1);
+	}
+
+	#logo_about span a
+	{
+		color: rgba(255,255,255,0.8);
+	}
+
 
 /*********************************************************************************/
 /* Logo Resume                                                                         */
@@ -473,7 +508,48 @@
 	{
 		color: #FFF;
 	}
+
+/*********************************************************************************/
+/* Menu_Home About                                                                          */
+/*********************************************************************************/
+
+	#menu_about
+	{
+	}
 	
+	#menu_about ul
+	{
+		display: inline-block;
+		padding: 0em 2em;
+		text-align: center;
+	}
+	
+	#menu_about li
+	{
+		display: inline-block;
+	}
+	
+	#menu_about li a, #menu_about li span
+	{
+		display: inline-block;
+		padding: 1.3em 1.5em;
+		text-decoration: none;
+		font-size: 0.90em;
+		font-weight: 600;
+		text-transform: uppercase;
+		outline: 0;
+		color: #ffc425;
+	}
+	
+	#menu_about li:hover a, #menu_about li.active a, #menu_about li.active span
+	{
+		background: #3E5A99;
+	}
+	
+	#menu_about .current_page_item a
+	{
+		color: #FFF;
+	}	
 
 /*********************************************************************************/
 /* Menu_Resume                                                                       */

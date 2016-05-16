@@ -1,10 +1,10 @@
-	html,body
+	html, body
 	{
 		height: 100%;
 	}
 	
-	
-	#index.html
+
+	#index
 	{
 		margin: 0px;
 		padding: 0px;
@@ -12,7 +12,46 @@
 		font-family: 'Questrial', sans-serif;
 		font-size: 12pt;
 		color: #FFF;
-		
+	}
+
+	#resume
+	{
+		margin: 0px;
+		padding: 0px;
+		background: #FFF;
+		font-family: 'Questrial', sans-serif;
+		font-size: 12pt;
+		color: #000;
+	}
+
+	#about
+	{
+		margin: 0px;
+		padding: 0px;
+		background: #334467;
+		font-family: 'Questrial', sans-serif;
+		font-size: 12pt;
+		color: #FFF;
+	}
+
+	#portfolio
+	{
+		margin: 0px;
+		padding: 0px;
+		background: #334467;
+		font-family: 'Questrial', sans-serif;
+		font-size: 12pt;
+		color: #FFF;
+	}
+
+	#contact
+	{
+		margin: 0px;
+		padding: 0px;
+		background: #334467;
+		font-family: 'Questrial', sans-serif;
+		font-size: 12pt;
+		color: #FFF;
 	}
 	
 	
@@ -376,7 +415,7 @@
 	#logo_resume a
 	{
 		text-decoration: none;
-		color: hotpink;
+		color: 000;
 	}
 	
 	#logo_resume span
@@ -465,7 +504,7 @@
 		font-weight: 600;
 		text-transform: uppercase;
 		outline: 0;
-		color: hotpink;
+		color: #000;
 	}
 	
 	#Menu_Resume li:hover a, #Menu_Resume li.active a, #Menu_Resume li.active span
@@ -475,7 +514,7 @@
 	
 	#Menu_Resume .current_page_item a
 	{
-		color: #FFF;
+		color: #000;
 	}
 	
 

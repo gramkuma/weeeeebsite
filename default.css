@@ -41,7 +41,7 @@
 		background: #f37735;
 		font-family: 'Questrial', sans-serif;
 		font-size: 12pt;
-		color: #00aedb;
+		color: green;
 	}
 
 	#contact
@@ -414,7 +414,7 @@
 	#logo_portfolio a
 	{
 		text-decoration: none;
-		color: #00aedb;
+		color: green;
 	}
 	
 	#logo_portfolio span
@@ -573,7 +573,7 @@
 		font-weight: 600;
 		text-transform: uppercase;
 		outline: 0;
-		color: #00aedb;
+		color: green;
 	}
 	
 	#menu_portfolio li:hover a, #menu_portfolio li.active a, #menu_portfolio li.active span
@@ -583,7 +583,7 @@
 	
 	#menu_portfolio .current_page_item a
 	{
-		color: #00aedb;
+		color: green;
 	}
 
 /*********************************************************************************/

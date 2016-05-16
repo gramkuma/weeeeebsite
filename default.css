@@ -450,7 +450,7 @@
 	#logo_resume a
 	{
 		text-decoration: none;
-		color: 000;
+		color: #000;
 	}
 	
 	#logo_resume span
@@ -543,7 +543,7 @@
 	
 	#menu_about li:hover a, #menu_about li.active a, #menu_about li.active span
 	{
-		background: #3E5A99;
+		background: #FFF;
 	}
 	
 	#menu_about .current_page_item a

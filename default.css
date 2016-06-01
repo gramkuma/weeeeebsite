@@ -1000,5 +1000,34 @@
 		text-align: center;
 		color: #FFFFFF;
 	}
+
+/*********************************************************************************/
+/* Flex Box Stuff                                                                */
+/*********************************************************************************/
 	
+	.item {
+		margin: 5px;
+		color: white;
+		text-align: center;
+		line-height: 50px;
+		font-weight: 600;
+	}
+
+
+
+	.example-wrap .parent {
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.example-wrap .item{
+		width:30%;
+	}
+
+
+
+
+
+
+
 	

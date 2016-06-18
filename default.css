@@ -1024,14 +1024,14 @@
 		align-items: center;
 	}
 
-	.example-wrap .A{
+	.example-wrap div.A{
 		order: 1
 		align-self: auto;
 		min-width: 0;
 		min-height: auto;
 	}
 
-	.example-wrap .B{
+	.example-wrap div.B{
 		order: 2
 		align-self: auto;
 		min-width: 0;

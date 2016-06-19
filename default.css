@@ -1015,7 +1015,7 @@
 		line-height: 50px;
 		font-weight: 600;
 	}
-
+/*
 	.example-wrap .parent {
 		display: flex;
 		flex-flow: row wrap;
@@ -1027,6 +1027,7 @@
 		min-width: 0;
 		min-height: auto;
 	}
+	*/
 
 .flex-container {
   padding: 0;
@@ -1044,7 +1045,7 @@
 }
 
 .flex-item {
-  background: chucknorris;
+  background: green;
   padding: 5px;
   width: 200px;
   height: 150px;
@@ -1057,7 +1058,19 @@
   text-align: center;
 }
 
-
+.flex-item1 {
+  background: green;
+  padding: 5px;
+  width: 200px;
+  height: 150px;
+  margin-top: 10px;
+  
+  line-height: 150px;
+  color: white;
+  font-weight: bold;
+  font-size: 1em;
+  text-align: center;
+}
 
 
 	

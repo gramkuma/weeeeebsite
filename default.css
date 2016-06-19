@@ -235,7 +235,7 @@
 	
 	.image-centered img
 	{
-		margin: 0 auto;
+		margin: auto;
 		width: auto;
 	}
 
